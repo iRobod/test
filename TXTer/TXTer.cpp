@@ -79,8 +79,8 @@ int *load (char name_file[])
 /* info cout */
 void About (void)
 {
-	printIt("\		 Simple TXT Reader   v.1.3\n\n");
-	printIt("Author: Vladislav I. Ushakov\n");
+	printIt("\		 Simple TXT Reader   v.1.4\n\n");
+	printIt("Author: Vladislav Ivanovish Ushakov\n");
 }
 /* code for Win */
 void printIt (char* format,...)
